@@ -1,0 +1,45 @@
+/* div {
+    width: 400px;
+    height: 200px;
+    background-color: pink;
+}
+ul {
+    background-color: blue;
+}
+li {
+    background-color: greenyellow;
+}
+li {
+    border: 2px solid black;
+    gap: 0.5px;
+} */
+
+body {
+    background-color: aquamarine;
+}
+h1 {
+    text-align: center;
+}
+.box {
+    text-align: center;
+    border: black 2px dotted;
+    background-color: cornsilk;
+    margin:5px 0px 0px 0px;
+}
+.inp {
+    color: black;
+    background-color: rgb(236, 233, 10);
+}
+.add_items {
+    background-color: rgb(200, 154, 36);
+}
+
+.box2 {
+    text-align: center;
+    background-color: #c63421;
+}
+.delete {
+    color: black;
+    background-color: rgb(174, 255, 0);
+    border-radius: 50%;
+}
